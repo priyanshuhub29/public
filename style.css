@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.nevbar{
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+}
+
+.border1{
+    border-radius: 2px solid blacks;
+}
+
+.logo{
+      background-image: url(logo.jpeg);
+      background-size: cover;
+      margin-left: 33%;
+      height: 100px;
+      width: 100px;
+}
+.border{
+        border: 2px solid rgb(12, 12, 12);
+    
+}
+.public{
+    padding-right: 200px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.parliament{
+    height: 500px;
+    width: 1000px;
+
+}
+
+.parliament1{
+   margin-top:40px;
+   height: 500px;
+   width: 900px;
+   border-radius: 20px;
+   background-image: url(parliament.avif);
+   position: relative;
+   left: 5px;
+   margin-bottom: 33px;
+   background-size: cover;
+   display: flex;
+   display: inline-block;
+}
+.pcantent{
+    height: 500px;
+    width: 500px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: large;
+    position: relative;
+    left: 950px;
+    top: 200px;
+}
+.found{
+    height: 100px;
+    width: 1520px;
+    display: flex;
+    margin-top: 15px;
+    text-align: center;
+    justify-content: center;
+}
+.founder{
+    display: flex;
+    margin-top: 15px;
+}
+.vision{
+    height: 500px;
+    width: 1200px;
+    position: relative;
+    left: 150px;
+    background-image: url(Screenshot\ 2024-10-02\ 012956.png);
+    background-size: cover;
+}
+.profile{
+    position: relative;
+    top: 60px;
+    height: 900px;
+    width: 1520px;
+        
+}
+.foundingM{
+    position: relative;
+    left: 35%;
+    top: 10px;
+}
+.rahul{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(rahul.png);
+    background-size: cover;  
+}
+.imfo{
+    height: 100px;
+    width: 500px;
+    position: relative;
+    top: 250px;
+    margin-top: 10px;
+    margin-left: 10px; 
+}
+.prakhar{
+    position: relative;
+    left: 300px;
+    bottom: 60%;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(prakhar.png);
+    background-size: cover;     
+}
+.priyansu{
+    position: relative;
+    left: 300px;
+    bottom: 60%;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(priyanshu1.png);
+    background-size: cover;     
+}
+.kaushik{
+    position: relative;
+    left: 300px;
+    bottom: 60%;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(kaushik.png);
+    background-size: cover;     
+}
+.nitish{
+    position: relative;
+    right: 350px;
+    bottom:10%;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(nitish.png);
+    background-size: cover;   
+}
+.tripathi{
+    position: relative;
+    left: 300px;
+    bottom: 60%;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px; 
+    background-image: url(triphathi.png);
+    background-size: cover;
+}
+.introduction{   
+    position: relative;
+    top: 80px;
+    left: 30%;
+    height: 150px;
+    width: 1520px;      
+}
+.intropic{
+    margin-top: 1px;
+    height: 500px;
+    width: 1200px;
+    border-radius: 20px;
+    background-image: url(firstintro.png);
+    margin-bottom: 33px;
+    position: relative;
+    right: 150%;
+    background-size: cover;
+    display: flex;
+    display: inline-block;
+}
